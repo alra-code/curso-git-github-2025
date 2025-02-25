@@ -4,7 +4,9 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de códigos e 
 
 Além disso, vamos trabalhar com Gitflow ao final do curso e Visual Studio Code.
 
-Confira tudo o que temos no nosso Youtube. É grátis!
+Confira tudo o que temos no nosso Youtube. É grátis! Segue o link:
+
+[Curso git 2025](https://youtube.com.br/teomewhy)
 
 ------
 Pessoas participantes 
